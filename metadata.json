@@ -1,0 +1,7 @@
+{
+  "name": "OrbitView: NASA GIBS Explorer",
+  "description": "Explore Earth like an astronaut. View daily high-resolution satellite imagery from NASA's Global Imagery Browse Services (GIBS) and ask an AI Earth Scientist about what you see.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
